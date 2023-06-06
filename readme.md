@@ -7,8 +7,6 @@
 <hr>
 
 ```
-I-am-vishalmaurya@github
--------------------------
 📝 I have a strong interest in C++ and Game Hacking
 🌟 Main languages: C++, Python
 ```
