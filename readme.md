@@ -8,11 +8,6 @@
 
 ```
 📝 I have a strong interest in C++ and Game Hacking
-🌟 Main languages: C++, Python
+🌟 Main language: C++
 ```
 <hr>
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
